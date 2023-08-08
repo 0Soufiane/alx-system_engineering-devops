@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -mindpth "* .js" -type f -delete
